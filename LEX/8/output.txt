@@ -1,0 +1,6 @@
+1 IDENTIFICADOR BASICO "hola"
+
+2 NUMERO "98"
+
+>
+
