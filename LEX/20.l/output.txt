@@ -1,0 +1,5 @@
+
+Ingrese un numero par y un numero impar
+Numero par [1] Numero impar [1]
+Se verificaron sus entradas para la correccion, 
+Resultado: Correcto
