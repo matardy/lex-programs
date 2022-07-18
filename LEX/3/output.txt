@@ -1,0 +1,2 @@
+Numero de lineas 5
+Numero de caracteres 23

@@ -1,0 +1,15 @@
+1 PALABRA "Este"
+ 2 PALABRA "es"
+ 3 PALABRA "el"
+ 4 PALABRA "baile"
+ 5 PALABRA "de"
+ 6 PALABRA "peter"
+ 7 PALABRA "la"
+ 8 PALABRA "anguila"
+
+9 PALABRA "Asi"
+ 10 PALABRA "es"
+ 11 PALABRA "como"
+ 12 PALABRA "se"
+ 13 PALABRA "bail"
+
