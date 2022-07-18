@@ -1,3 +1,3 @@
 %%
-username printf("%s", getlogin() );
 
+username	printf("%s", getlogin());

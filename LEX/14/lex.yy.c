@@ -662,7 +662,8 @@ YY_DECL
 	{
 #line 1 "catorce.l"
 
-#line 666 "lex.yy.c"
+
+#line 667 "lex.yy.c"
 
 	while ( /*CONSTCOND*/1 )		/* loops until end-of-file is reached */
 		{
@@ -721,15 +722,15 @@ do_action:	/* This label is used only to access EOF actions. */
 
 case 1:
 YY_RULE_SETUP
-#line 2 "catorce.l"
-printf("%s", getlogin() );
+#line 3 "catorce.l"
+printf("%s", getlogin());
 	YY_BREAK
 case 2:
 YY_RULE_SETUP
 #line 4 "catorce.l"
 ECHO;
 	YY_BREAK
-#line 733 "lex.yy.c"
+#line 734 "lex.yy.c"
 case YY_STATE_EOF(INITIAL):
 	yyterminate();
 
